@@ -1,0 +1,39 @@
+import { StyleSheet } from "react-native";
+
+export default StyleSheet.create({
+    container:{
+        padding:10,
+        borderWidth:1,
+        borderColor:'black',
+        borderRadius:10,
+        margin:5,
+        backgroundColor:'white'
+    },
+    txtInfoName:{
+        fontSize:17,
+        color:'black',
+        fontWeight:'bold',
+        margin:3,
+    },
+    txtInfo:{
+        fontSize:17,
+        color:'black',
+        margin:3,
+    },
+    txtInfoLocation:{
+        fontSize:17,
+        color:'white',
+        fontWeight:'bold',
+        marginVertical:3,
+        padding:7,
+        backgroundColor:'#ab000d',
+        alignSelf:'flex-start',
+        borderRadius:12
+    },
+    txtLevel:{
+        color:'#ab000d',
+        fontWeight:'bold',
+        fontSize:17,
+        alignSelf:'flex-end'
+    }
+})
