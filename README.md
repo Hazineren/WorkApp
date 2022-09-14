@@ -10,7 +10,7 @@ Work list and favorites list have been created in the Drawer menu.
 Technologies and structures used;<br>
 ~Redux
 ~Hooks
-~API
+~Web API
 ~RenderHTML
 ~Drawer Navigation
 <p/><p/>
