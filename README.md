@@ -8,11 +8,11 @@ The user can apply for a job or add to favorites. Adding and deleting to favorit
 Work list and favorites list have been created in the Drawer menu.
 
 Technologies and structures used;<br>
-~Redux
-~Hooks
-~Web API
-~RenderHTML
-~Drawer Navigation
+~Redux<br>
+~Hooks<br>
+~Web API<br>
+~RenderHTML<br>
+~Drawer Navigation<br><br>
 <p/><p/>
 
 <img src="https://user-images.githubusercontent.com/77547205/190257923-12c20f65-b0bb-444d-9f7d-c02b158c6baa.png" height="550" width="250">
