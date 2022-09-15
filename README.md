@@ -5,14 +5,25 @@ The user can navigate between the job posting pages with the back and forth butt
 The 'Loading' animation is displayed so that the user does not encounter a blank screen while the job postings are brought to the home page.
 Job details are shown when the user clicks on any job posting. The job detail data that came as HTML was printed to the screen with renderHTML.
 The user can apply for a job or add to favorites. Adding and deleting to favorites was created with Redux structure.
-Work list and favorites list have been created in the Drawer menu.
+Work list and favorites list have been created in the Drawer menu.<br>
 
 Technologies and structures used;<br>
 ~Redux<br>
 ~Hooks<br>
 ~Web API<br>
 ~RenderHTML<br>
-~Drawer Navigation<br><br>
+~Drawer Navigation<br>
+************************
+WorkApp uygulamamızda güncel iş ilanları, pozisyonlar, pozisyon seviyesi ve pozisyon bilgileri API üzerinden kullanıcıya gösterilir. Kullanıcı ileri geri butonları ile iş ilanı sayfaları arasında gezinebilir. İş ilanları ana sayfaya getirilirken kullanıcının boş bir ekranla karşılaşmaması için 'Loading' animasyonu görüntülenir. Kullanıcı herhangi bir iş ilanına tıkladığında iş ayrıntıları gösterilir. HTML olarak gelen iş detay verileri renderHTML ile ekrana yazdırıldı. Kullanıcı bir iş başvurusunda bulunabilir veya favorilere ekleyebilir. Redux yapısı ile favorilere ekleme ve silme işlemleri yapılmıştır. Drawer menüsünde iş listesi ve sık kullanılanlar listesi oluşturulmuştur. Proje hakkında detaylı bilgiye Github hesabımdan ulaşabilirsiniz. İyi Çalışmalar..<br><br>
+
+Kullanılan Yapılar;<br>
+~Redux<br>
+~Hooks<br>
+~Web API<br>
+~RenderHTML<br>
+~Drawer Navigation<br>
+
+<br>
 <p/><p/>
 
 <img src="https://user-images.githubusercontent.com/77547205/190257923-12c20f65-b0bb-444d-9f7d-c02b158c6baa.png" height="550" width="250">
