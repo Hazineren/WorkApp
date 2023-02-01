@@ -14,7 +14,7 @@ Technologies and structures used;<br>
 ~RenderHTML<br>
 ~Drawer Navigation<br>
 ************************
-WorkApp uygulamamızda güncel iş ilanları, pozisyonlar, pozisyon seviyesi ve pozisyon bilgileri API üzerinden kullanıcıya gösterilir. Kullanıcı ileri geri butonları ile iş ilanı sayfaları arasında gezinebilir. İş ilanları ana sayfaya getirilirken kullanıcının boş bir ekranla karşılaşmaması için 'Loading' animasyonu görüntülenir. Kullanıcı herhangi bir iş ilanına tıkladığında iş ayrıntıları gösterilir. HTML olarak gelen iş detay verileri renderHTML ile ekrana yazdırıldı. Kullanıcı bir iş başvurusunda bulunabilir veya favorilere ekleyebilir. Redux yapısı ile favorilere ekleme ve silme işlemleri yapılmıştır. Drawer menüsünde iş listesi ve sık kullanılanlar listesi oluşturulmuştur. Proje hakkında detaylı bilgiye Github hesabımdan ulaşabilirsiniz. İyi Çalışmalar..<br><br>
+WorkApp uygulamamızda güncel iş ilanları, pozisyonlar, pozisyon seviyesi ve pozisyon bilgileri API üzerinden kullanıcıya gösterilir. Kullanıcı ileri geri butonları ile iş ilanı sayfaları arasında gezinebilir. İş ilanları ana sayfaya getirilirken kullanıcının boş bir ekranla karşılaşmaması için 'Loading' animasyonu görüntülenir. Kullanıcı herhangi bir iş ilanına tıkladığında iş ayrıntıları gösterilir. HTML olarak gelen iş detay verileri renderHTML ile ekrana yazdırıldı. Kullanıcı bir iş başvurusunda bulunabilir veya favorilere ekleyebilir. Redux yapısı ile favorilere ekleme ve silme işlemleri yapılmıştır. Drawer menüsünde iş listesi ve sık kullanılanlar listesi oluşturulmuştur.<br><br>
 
 Kullanılan Yapılar;<br>
 ~Redux<br>
